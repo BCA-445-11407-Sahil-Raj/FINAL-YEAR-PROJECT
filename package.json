@@ -1,0 +1,14 @@
+{
+  "name": "student-result-backend",
+  "version": "1.0.0",
+  "description": "Backend for SRMS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.4",
+    "cors": "^2.8.6",
+    "express": "^4.22.1"
+  }
+}

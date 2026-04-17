@@ -1,0 +1,325 @@
+{
+  "users": [
+    {
+      "name": "Admin User",
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin",
+      "securityQuestions": [
+        {
+          "question": "Favorite animal?",
+          "answer": "tiger"
+        },
+        {
+          "question": "Favorite place?",
+          "answer": "paris"
+        }
+      ]
+    },
+    {
+      "name": "Aryan",
+      "username": "123",
+      "password": "12",
+      "role": "admin",
+      "securityQuestions": [
+        {
+          "question": "Favorite animal?",
+          "answer": "dog"
+        },
+        {
+          "question": "Favorite place?",
+          "answer": "patna"
+        }
+      ]
+    },
+    {
+      "name": "ar",
+      "username": "1",
+      "password": "124",
+      "role": "student",
+      "securityQuestions": [
+        {
+          "question": "Favorite animal?",
+          "answer": "dog"
+        },
+        {
+          "question": "Favorite place?",
+          "answer": "patna"
+        }
+      ]
+    },
+    {
+      "name": "sahil",
+      "username": "sa",
+      "password": "123",
+      "role": "student",
+      "securityQuestions": [
+        {
+          "question": "Favorite animal?",
+          "answer": "dog"
+        },
+        {
+          "question": "Favorite place?",
+          "answer": "patna"
+        }
+      ]
+    },
+    {
+      "name": "dhoni",
+      "username": "dh",
+      "password": "1234",
+      "role": "admin",
+      "securityQuestions": [
+        {
+          "question": "Favorite animal?",
+          "answer": "dog"
+        },
+        {
+          "question": "Favorite place?",
+          "answer": "patna"
+        }
+      ]
+    },
+    {
+      "name": "yuvraj",
+      "username": "yuvi",
+      "password": "1234",
+      "role": "admin",
+      "securityQuestions": [
+        {
+          "question": "Favorite animal?",
+          "answer": "dog"
+        },
+        {
+          "question": "Favorite place?",
+          "answer": "patna"
+        }
+      ]
+    },
+    {
+      "username": "sahil",
+      "password": "sahil123",
+      "role": "admin",
+      "securityQ1": "home",
+      "securityQ2": "dog"
+    },
+    {
+      "username": "sahil ",
+      "password": "123456",
+      "role": "admin",
+      "securityQ1": "home",
+      "securityQ2": "dog"
+    },
+    {
+      "username": "rahul",
+      "password": "rahul123",
+      "role": "student",
+      "securityQ1": "dog",
+      "securityQ2": "cat"
+    },
+    {
+      "username": "Raj23@gmail.com",
+      "password": "raj23",
+      "role": "admin",
+      "securityQ1": "home",
+      "securityQ2": "dog"
+    },
+    {
+      "username": "ankush",
+      "password": "1234",
+      "role": "student",
+      "securityQ1": "home",
+      "securityQ2": "dog"
+    }
+  ],
+  "courses": [
+    {
+      "name": "java",
+      "code": "001",
+      "id": "1775747380001"
+    },
+    {
+      "name": "Operating system",
+      "code": "002",
+      "id": "1775747406252"
+    },
+    {
+      "name": "python",
+      "code": "003",
+      "id": "1775747441595"
+    },
+    {
+      "name": "C++",
+      "code": "004",
+      "id": "1775747452892"
+    },
+    {
+      "name": "C",
+      "code": "005",
+      "id": "1775747466093"
+    },
+    {
+      "name": "MySql",
+      "code": "006",
+      "id": "1775747490110"
+    },
+    {
+      "name": "Html",
+      "code": "007",
+      "id": "1775751627716"
+    },
+    {
+      "name": "springboot",
+      "code": "232323",
+      "id": "1776115696979"
+    }
+  ],
+  "students": [
+    {
+      "name": "aryan",
+      "rollNumber": "12",
+      "gender": "Male",
+      "email": "aryanbhardwaj2024@lpu.in",
+      "course": "",
+      "id": "1771153737703",
+      "registrationDate": "2026-02-15T11:08:57.703Z"
+    },
+    {
+      "name": "Sahil Raj",
+      "rollNumber": "33",
+      "studentId": "09090",
+      "mobile": "96731205969",
+      "email": "ssr48613@gmail.com",
+      "dob": "20008-02-12",
+      "courseId": "1774364686350",
+      "collegeCode": "445",
+      "address": "Rahsa west , bhagwanpur,vaishali",
+      "id": "1774367240591",
+      "registrationDate": "2026-03-24T15:47:20.591Z"
+    },
+    {
+      "name": "Manish",
+      "rollNumber": "13",
+      "studentId": "13303",
+      "mobile": "0989876568",
+      "email": "manish@123",
+      "dob": "2004-09-12",
+      "courseId": "1775746343528",
+      "collegeCode": "445",
+      "address": "",
+      "id": "1775746843630",
+      "registrationDate": "2026-04-09T15:00:43.630Z"
+    },
+    {
+      "name": "sumit kumar",
+      "rollNumber": "18",
+      "studentId": "12002",
+      "mobile": "9849209820",
+      "email": "sumit@123",
+      "dob": "2000-08-16",
+      "courseId": "1775747406252",
+      "collegeCode": "445",
+      "address": "",
+      "id": "1775747557151",
+      "registrationDate": "2026-04-09T15:12:37.151Z"
+    },
+    {
+      "name": "Rahul kumar",
+      "rollNumber": "14",
+      "studentId": "11444",
+      "mobile": "8783975201",
+      "email": "Rahul@123",
+      "dob": "20002-10-08",
+      "courseId": "1775747466093",
+      "collegeCode": "445",
+      "address": "",
+      "id": "1775761059096",
+      "registrationDate": "2026-04-09T18:57:39.096Z"
+    },
+    {
+      "name": "arvind kumar",
+      "rollNumber": "21",
+      "studentId": "12002",
+      "mobile": "8977732",
+      "email": "arvind@gmail",
+      "dob": "2025-12-04",
+      "courseId": "1775747380001",
+      "collegeCode": "445",
+      "address": "near petrol pump",
+      "id": "1775810283090",
+      "registrationDate": "2026-04-10T08:38:03.090Z"
+    },
+    {
+      "name": "123",
+      "rollNumber": "22",
+      "studentId": "11507",
+      "mobile": "988729097",
+      "email": "ssr48613@gmail.com",
+      "dob": "2025-12-09",
+      "courseId": "1775747380001",
+      "collegeCode": "445",
+      "address": "Rahsa west , bhagwanpur,vaishali",
+      "id": "1775811589964",
+      "registrationDate": "2026-04-10T08:59:49.965Z"
+    }
+  ],
+  "results": [
+    {
+      "studentId": "1771153737703",
+      "courseId": "",
+      "marks": 12,
+      "grade": "A",
+      "id": "1771153770211",
+      "date": "2026-02-15T11:09:30.211Z"
+    },
+    {
+      "studentId": "1775746843630",
+      "courseId": "1775747380001",
+      "marks": "90",
+      "id": "1775747570387",
+      "date": "2026-04-09T15:12:50.387Z"
+    },
+    {
+      "studentId": "1775746843630",
+      "courseId": "1775747406252",
+      "marks": "60",
+      "id": "1775747596702",
+      "date": "2026-04-09T15:13:16.702Z"
+    },
+    {
+      "studentId": "1775746843630",
+      "courseId": "1775747490110",
+      "marks": "73",
+      "id": "1775747610600",
+      "date": "2026-04-09T15:13:30.600Z"
+    },
+    {
+      "studentId": "1775746843630",
+      "courseId": "1775751627716",
+      "marks": "50",
+      "id": "1775751661140",
+      "date": "2026-04-09T16:21:01.140Z"
+    },
+    {
+      "studentId": "1775761059096",
+      "courseId": "1775747406252",
+      "marks": "32",
+      "id": "1775761107338",
+      "date": "2026-04-09T18:58:27.338Z"
+    },
+    {
+      "studentId": "1771153737703",
+      "courseId": "1775747380001",
+      "marks": "",
+      "id": "1776115711437",
+      "date": "2026-04-13T21:28:31.437Z"
+    },
+    {
+      "studentId": "1771153737703",
+      "courseId": "1776115696979",
+      "marks": "89",
+      "id": "1776115748834",
+      "date": "2026-04-13T21:29:08.834Z"
+    }
+  ]
+}
